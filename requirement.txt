@@ -1,0 +1,5 @@
+phonenumbers
+pynput
+bs4
+csv
+requests
