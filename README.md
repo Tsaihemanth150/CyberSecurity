@@ -7,3 +7,7 @@ This repo has cybersecurity tools that are verious use cases:
   I) Website Scarper 
   II) Mutiple Website Scarper With output stored in .csv file
 
+
+This Repo Also contains Bash Scipts which automates the process in UNIX:-
+1) MAC_Changer.sh
+
