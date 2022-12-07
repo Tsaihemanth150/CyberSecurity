@@ -11,5 +11,5 @@ This repo has cybersecurity tools that are verious use cases:
 This Repo Also contains Bash Scipts which automates the process in UNIX:-
 1) MAC_Changer.sh
 
-# To Change the permission of the Script is : chmod +X [File_Name].sh
-# How to excaute the Script is : ./[File_name].sh
+>> To Change the permission of the Script is : chmod +X [File_Name].sh
+>> How to excaute the Script is : ./[File_name].sh
