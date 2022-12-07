@@ -1,5 +1,5 @@
 # CyberSecurity
-
+it is the protection of computer systems and networks from attack by malicious actors that may result in unauthorized information disclosure, theft of, or damage to hardware, software, or data, as well as from the disruption or misdirection of the services they provide
 
 # This repo has cybersecurity tools that are verious use cases:
 1) key logger with python.
@@ -13,6 +13,6 @@
 The list of available scripts in repo are :-
 1) MAC_Changer.sh
 
->> To Change the permission of the Script is : chmod +X [File_Name].sh
+> To Change the permission of the Script is : chmod +X [File_Name].sh 
 
->> How to excaute the Script is : ./[File_name].sh
+> How to excaute the Script is : ./[File_name].sh
