@@ -9,10 +9,15 @@ it is the protection of computer systems and networks from attack by malicious a
   II) Mutiple Website Scarper With output stored in .csv file
 
 
-# This Repo Also contains Bash Scipts which automates the process in UNIX:-
-The list of available scripts in repo are :-
+# This Repo Also contains Bash Scipts which automates the process in UNIX and Windows:-
+The list of available scripts in repo for Unix :-
 1) MAC_Changer.sh
 
 > To Change the permission of the Script is : chmod +X [File_Name].sh 
 
-> How to excaute the Script is : ./[File_name].sh
+> How to excaute the Script is : ./[File_name].sh or Bash [File_name].sh
+
+The list of available scripts in repo for Windows :-
+1) Find.sh -> it used to find out the internet connectiviety, ARP table and routing route for any website
+
+> To excaute this in windows GIT BASH :- Bash [File_name].sh
