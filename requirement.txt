@@ -3,3 +3,4 @@ pynput
 bs4
 csv
 requests
+FPDF
